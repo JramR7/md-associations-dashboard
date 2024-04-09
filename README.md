@@ -126,7 +126,6 @@ soft-ui-dashboard-react
     │   │   ├── Cards
     │   │   ├── Charts
     │   │   ├── Configurator
-    │   │   ├── Footer
     │   │   ├── Icons
     │   │   ├── Items
     │   │   ├── LayoutContainers
